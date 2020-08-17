@@ -74,3 +74,14 @@ Project description:
 •Performed pre-processing using Scalar and String Indexer on a 1.4GB banking dataset based on marketing campaign phone calls to know whether a customer will subscribe for the term deposit or not
 
 •Built predictive models namely Linear SVC, Logistic Regression, Decision Tree using Pyspark on Databricks platform over a 80% train and 20% test dataset to obtain a 79% accuracy given by the Decision Tree model
+
+
+Project-7-Health-Insurance-Cost-Prediction
+
+Technology used: Python, MS Excel, Jupyter Notebook
+
+Project Description:
+
+• Analyzed a historic healthcare cost dataset with relevant details of bmi, age, sex and smoking habits to predict the insurance claim cost by the policy holders by creating Random Forest, Decision Tree and Linear Regression ML Models using Python
+
+• The aim is to present a Machine Learning model that predicts the insurance costs with the highest accuracy
